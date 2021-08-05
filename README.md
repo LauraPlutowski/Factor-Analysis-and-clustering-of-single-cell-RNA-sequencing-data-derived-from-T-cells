@@ -6,7 +6,7 @@ This repository contains examples for analyzing scRNA-seq data derived from T ce
 - Clustering and cell type identification of unstimulated (UNS) and stimulated cells 
 - Application of different factor analysis methods
 
-The code is available as `jupyter notebook`. Example output from preprocessing and clustering is shown in `.html` files. 
+The code is available as `jupyter notebook`. Example outputs are shown in `.html` files. 
 
 ## Used data 
 The data used for the analysis was originally obtained by [Cano-Gamez et al. how identified effectorness gradient of CD4+ T cells in response to cytokine stimuli](https://www.nature.com/articles/s41467-020-15543-y). 
